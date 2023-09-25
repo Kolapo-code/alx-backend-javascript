@@ -1,3 +1,10 @@
+/**
+ * File: myModule.js
+ * Description: This module contains functions related to task management.
+ * Author: Kolapo Adedipe
+ * Date: September 25, 2023
+ */
+
 export function taskFirst() {
 	const task = 'I prefer const when I can.';
 	return task;
